@@ -1,4 +1,4 @@
 # petproject-typescript1-udemy
 Drag&amp;Drop
 
-![Final view](final view.jpg)
+![Final view]((https://github.com/mariya-podosinova/petproject-typescript1-udemy/blob/main/final%20view.jpg))
